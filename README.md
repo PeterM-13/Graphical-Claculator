@@ -2,7 +2,7 @@
 
 I made a graphical calculator in python (~3000 lines, OOP).
 
-This is my ALevel project source code (received grade A).
+This is my Computer Science A-Level project source code (received grade A).
 
 ### Features:
 
