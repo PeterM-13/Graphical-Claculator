@@ -1,4 +1,6 @@
-# Graphical Calculator 
+<img width="175px" align="right" src="https://user-images.githubusercontent.com/104497542/211028733-0e3d8989-15a9-4ed6-a466-8f18916e1035.png"/>
+
+# Graphical Calculator
 
 I made a graphical calculator in python (~3000 lines, OOP).
 
