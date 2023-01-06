@@ -36,8 +36,8 @@ The main file being 'Graph.py', so run this in python, or 'Graph.exe' on windows
 </br>
 
 ## 🖼 Gallery
-<img width="400px" align="left" src="https://user-images.githubusercontent.com/104497542/210879770-b4c235d8-5172-47a6-bdbc-8c1378d19f57.png"/>
-<img width="400px" align="right" src="https://user-images.githubusercontent.com/104497542/210879955-42d17e2e-70fc-41d8-8c15-d1f2b7644b1f.png"/>
-<img width="400px" align="left" src="https://user-images.githubusercontent.com/104497542/210879844-2fcf265a-3077-42cf-b3b0-0bc5dd4c69fc.png"/>
-<img width="400px" align="right"src="https://user-images.githubusercontent.com/104497542/211027852-54131a34-ad46-47e7-984c-0dc4f7654b49.png"/>
+<img width="380px" align="left" src="https://user-images.githubusercontent.com/104497542/210879770-b4c235d8-5172-47a6-bdbc-8c1378d19f57.png"/>
+<img width="380px" align="right" src="https://user-images.githubusercontent.com/104497542/210879955-42d17e2e-70fc-41d8-8c15-d1f2b7644b1f.png"/>
+<img width="380px" align="left" src="https://user-images.githubusercontent.com/104497542/210879844-2fcf265a-3077-42cf-b3b0-0bc5dd4c69fc.png"/>
+<img width="380px" align="right"src="https://user-images.githubusercontent.com/104497542/211027852-54131a34-ad46-47e7-984c-0dc4f7654b49.png"/>
 
